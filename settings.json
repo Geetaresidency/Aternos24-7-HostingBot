@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Friendly-Nvt1.aternos.me:37459",
+    "ip": "Friendly-Nvt1.aternos.me",
     "port": 37459,
     "version": "",
     "try-creative": false
